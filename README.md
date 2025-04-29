@@ -14,7 +14,7 @@ Focus area: Data analysis using Python.
 
 - Apply visualization principles to the data analysis process and explore data visually at multiple levels to find insights and create a compelling story.
 
-## Case Study #1 | Netflix Content Analysis: Exploring Netflix Movies and TV Shows Trends
+## 📺 [Case Study #1 | Netflix Content Analysis: Exploring Netflix Movies and TV Shows Trends](https://github.com/meljesus/Python/blob/main/netflix_content_analysis.ipynb)
 **Project Topic:**
 Using Netflix Movies and TV Shows data, we will ask analytical questions about the content on Netflix and answer them with graphs.
 
